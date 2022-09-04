@@ -1,5 +1,5 @@
-![Visitor Count](https://profile-counter.glitch.me/imvagrant/count.svg)
-# imvagrant.github.io
+# imvagrant.github.io 访问量：![Visitor Count](https://profile-counter.glitch.me/imvagrant/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvagrant)](https://github.com/imvagrant/github-readme-stats)
 ## Wenrui的个人主页
 ### 个人信息
 #### 姓名：宋文锐
