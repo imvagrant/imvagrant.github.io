@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/imvagrant/count.svg)
 # imvagrant.github.io
 ## Wenrui的个人主页
 ### 个人信息
